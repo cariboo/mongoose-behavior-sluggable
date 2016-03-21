@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-behavior-sluggable",
+  "version": "1.0.0",
+  "description": "A concurrency safe mongoose plugin that populates a Mongoose Schema with a slug (that may be unique), from one or more existing properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cariboo/mongoose-behavior-sluggable.git"
+  },
+  "keywords": [
+    "mongoose",
+    "behavior",
+    "slug",
+    "sluggable"
+  ],
+  "author": "sdecleire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cariboo/mongoose-behavior-sluggable/issues"
+  },
+  "homepage": "https://github.com/cariboo/mongoose-behavior-sluggable"
+}
